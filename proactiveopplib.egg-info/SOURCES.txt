@@ -1,0 +1,14 @@
+setup.py
+proactiveopplib/__init__.py
+proactiveopplib/desireability.py
+proactiveopplib/environment.py
+proactiveopplib/equilibrium_maintenance.py
+proactiveopplib/intention_recognition.py
+proactiveopplib/naive_proactivity.py
+proactiveopplib/opportunity.py
+proactiveopplib/planner.py
+proactiveopplib/string_modification.py
+proactiveopplib.egg-info/PKG-INFO
+proactiveopplib.egg-info/SOURCES.txt
+proactiveopplib.egg-info/dependency_links.txt
+proactiveopplib.egg-info/top_level.txt
