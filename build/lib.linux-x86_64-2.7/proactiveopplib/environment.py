@@ -4,7 +4,7 @@ import time
 from collections import OrderedDict
 import copy
 import re
-from src.string_modification import *
+from proactiveopplib.string_modification import *
 
 
 class ActionType():

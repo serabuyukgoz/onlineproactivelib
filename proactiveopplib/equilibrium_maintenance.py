@@ -1,6 +1,6 @@
-from src.string_modification import *
-from src.desireability import CalculateDesireability
-from src.opportunity import OpportunityDetection
+from proactiveopplib.string_modification import *
+from proactiveopplib.desireability import CalculateDesireability
+from proactiveopplib.opportunity import OpportunityDetection
 
 import copy
 

@@ -1,4 +1,4 @@
-from src.string_modification import *
+from proactiveopplib.string_modification import *
 
 class Opportunity():
     def __init__(self, opportunity_type, action, state, k, oop_deg):
